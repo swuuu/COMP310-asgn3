@@ -1,0 +1,25 @@
+set c INSIDE_TEST3.txt
+print c
+set c TEST_3:1
+print c
+set c TEST_3:2
+print c
+set c TEST_3:3
+print c
+set c TEST_3:4
+print c
+set c TEST_3:5
+print c
+set c TEST_3:6
+print c
+set c TEST_3:7
+print c
+set c TEST_3:8
+print c
+set c TEST_3:9
+print c
+set c TEST_3:10
+print c
+set c TEST_3:11
+print c
+quit

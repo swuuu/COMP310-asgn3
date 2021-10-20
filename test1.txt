@@ -1,0 +1,25 @@
+set a INSIDE_TEST1.txt
+print a
+set a TEST_1:1
+print a
+set a TEST_1:2
+print a
+set a TEST_1:3
+print a
+set a TEST_1:4
+print a
+set a TEST_1:5
+print a
+set a TEST_1:6
+print a
+set a TEST_1:7
+print a
+set a TEST_1:8
+print a
+set a TEST_1:9
+print a
+set a TEST_1:10
+print a
+set a TEST_1:11
+print a
+quit

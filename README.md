@@ -1,5 +1,4 @@
-Author: Stanley Wu
-260909721
+Author: Stanley Wu\
 COMP 310: Assignment 3
 
 To run the file, type "make".
